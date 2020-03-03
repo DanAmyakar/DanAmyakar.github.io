@@ -1,11 +1,11 @@
 # Site settings
 author: Daniel Amyakar
-title: 
+title: Dan's Scribles
 header-img: img/home-bg.png
 email: dan.rockit@gmail.com
 copyright_name: Daniel Amyakar
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why is the biggest question...
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  DanAmyakar
