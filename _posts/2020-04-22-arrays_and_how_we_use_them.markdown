@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Arrays and how we use them..."
+date:       2020-04-22 16:07:27 +0000
+permalink:  arrays_and_how_we_use_them
+---
+
+
+An array is akin to a set of chain links, item stored under a 'variable' name in a base zero index. The potential for arrays is quick storage and access to simple information. A kitchen for example is usually stocked with boxes of premade stuff. Pasta, cereal, pasta sauces, steak sauce. Each of these item is a 'variable' and the ingredient list is the array associated to it. Note that this method of storing ingredients in a list does not allow you to store a value with the ingredient. This quick access list is supposed to be simple. But we can make it very complicated really fast. A nested array is an array inside an array. There is actually a game that makes use of this. Imagine you are standing in a room with three doors, one left, one forward, and one right. Behind one of the doors is the exit. For each door you go through that isn't the exit, you have another three doors to choose from and the one you came through. As you come back through a door, the room resets to your perspective. Find the exit. Each subsequent room acts as a nested array. A glance at going through the left door, going through the next forward door, then coming back through that room, and going thru the left room would look like this; [ [ L, [ L, F, R], [ L, F, R] ], F, R]. This is quickly becoming a challenge to keep all that in your head. A practical use for a nested array is storing lists of similar type items. If you look at the periodic table of elements there are a few different ways that elements are categorized. Such as gasses, liquids, solids, noble gasses. Collectively, looking at that table, each element has an array of information associated with it, and each element is part of a larger array.
